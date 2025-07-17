@@ -1,0 +1,20 @@
+# Flask
+# sentence-transformers
+# scikit-learn
+# pyresparser
+# pdfminer.six
+# nltk
+# spacy
+# PyMuPDF
+
+Flask
+sentence-transformers
+scikit-learn
+pyresparser
+pdfminer.six
+nltk
+spacy
+PyMuPDF
+transformers
+torch
+
